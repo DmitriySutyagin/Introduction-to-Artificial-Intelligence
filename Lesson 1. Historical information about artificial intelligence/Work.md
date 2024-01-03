@@ -17,3 +17,4 @@
 ![Screenshot](/Screenshot/Lesson_1_Natali_part_4.png)
 
 
+Conclusion: After communicating with other chatbots, it turned out that Eliza is not capable of communicating with a person. SHRDLU is not working. But Natalie's structure is based on the theory of algorithms, the theory of computation, the top-down and bottom-up paradigm, which are moving towards obtaining artificial intelligence.
