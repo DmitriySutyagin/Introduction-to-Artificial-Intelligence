@@ -24,7 +24,7 @@
 
 ![Screenshot](/Screenshot/Lesson_5_Uploading%20a%20test_and_education_selection_part_4.png)
 
-*Viewing_the_first_five_values_of_the_selections
+* Viewing_the_first_five_values_of_the_selections
 
 ![Screenshot](/Screenshot/Lesson_5_Viewing_the_first_five_values_of_the_selections_part_5.png)
 
